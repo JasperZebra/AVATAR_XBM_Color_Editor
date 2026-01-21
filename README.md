@@ -1,3 +1,9 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/AVATAR_XBM_Color_Editor?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/AVATAR_XBM_Color_Editor/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)
+![Made for](https://img.shields.io/badge/made%20for-2009_AVATAR:_The_Game-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66)
+![Tool Type](https://img.shields.io/badge/type-XBM%20color%20editor-00ffff?style=for-the-badge&logo=palette&logoColor=00ffff&labelColor=1a4d66)
+
 # 🎨 Avatar XBM Color Editor
 ![XBM_Color_Editor_Icon](https://github.com/user-attachments/assets/d137287c-be07-411b-b0a6-ccd248c3e875)
 ---
